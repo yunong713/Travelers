@@ -1,5 +1,5 @@
 # Travelers
-Travelers Case Competition(2017 finalist): A Predictive Retention Model Solution
+Travelers Case Competition(2017 finalist): Predictive Retention Models 
 
 Business Problem: An insurance company is concerned about the company's retention rates as well as key drivers that cause policy cancellations.
 
