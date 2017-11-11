@@ -15,4 +15,4 @@ Finalist in this competition and presented to senior levels from Travelers Analy
 ### Highlights:
 ##### Utilized Xgboost to acheive the highest AUC score.
 ##### Created three new features that significantly improved model performance
-      family size, afforadable price, tenure ratio
+      family size, affordable price, tenure ratio
