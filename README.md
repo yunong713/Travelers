@@ -13,6 +13,6 @@ AUC: 0.7022462(private dataset)
 Finalist in this competition and presented to senior levels from Travelers Analytics and Research department. 
 
 ### Highlights:
-##### Utilized Xgboost to acheive the highest AUC score.
-##### Created three new features that significantly improved model performance
+##### Utilized Xgboost to acheive the highest AUC score(0.745543 on test)
+##### Created three new features based on business understanding that significantly improved model performance
       family size, affordable price, tenure ratio
