@@ -9,4 +9,5 @@ Developed a predictive model(Xgboost) to identify whether policies will be cance
 
 ### Results: 
 AUC: 0.7022462(private dataset)
+
 Finalist in this competition and presented to senior levels from Travelers Analytics and Research department. 
