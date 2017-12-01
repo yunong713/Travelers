@@ -19,4 +19,4 @@ Awarded finalist in this competition and presented findings to senior levels fro
 ##### Provided recommendations to improve Customer Lifetime Value and retention rates: 
 Market Segmentation: high credit, from broker, fewer children family and higher tenure ratio.
 
-Premium affordable indicator considering the number of working family members and number of Children. 
+Set Premium affordable indicator considering the number of working family members and number of Children. 
