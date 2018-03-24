@@ -2,7 +2,7 @@
 ## Travelers Case Competition: Customer Churn Prediction 
 
 ### Business Problem: 
-Our sponsor, senior consultants from Travelers analytics department, would like to know customers with what characteristics are more likely to churn and they also asked for a model to predict future customer churn. 
+Our sponsor, senior consultants from Travelers Insurance Company Analytics Department, would like to know customers with what characteristics are more likely to churn and they also asked for a model to predict future customer churn. 
 
 ### Our Solution: 
 Developed predictive models to identify whether customers would churn as well as provided actionable recommendations to reduce customer loss based on variables that are most influential in causing policy cancellation. 
